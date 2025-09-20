@@ -32,7 +32,7 @@ A modern, responsive one-page website for a coffee shop built with React and Tai
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jdhamidreza/coffee-store-onepage-react.git
+   git clone https://github.com/jdhamidreza(your username)/coffee-store-onepage-react.git
    cd coffee-store-onepage-react
    ```
 
