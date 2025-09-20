@@ -1,0 +1,23 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Tanha;
+    src: url('./assets/font/Tanha.eot');
+    src: url('./assets/font/Tanha.eot?#iefix') format('embedded-opentype'),
+         url('./assets/font/Tanha.woff') format('woff'),
+         url('./assets/font/Tanha.ttf') format('truetype');
+    font-weight: normal;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    direction: ltr;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
