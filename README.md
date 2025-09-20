@@ -1,3 +1,4 @@
+<img width="3800" height="1937" alt="image" src="https://github.com/user-attachments/assets/7bcf87ed-dff5-49bc-a9f3-04fdd6831ded" />
 # ☕ Corner Cafe - React One-Page Website
 
 A modern, responsive one-page website for a coffee shop built with React and Tailwind CSS.
@@ -141,10 +142,5 @@ npm run build
    "deploy": "gh-pages -d build"
    ```
 3. Deploy: `npm run deploy`
-
-### Deploy to Netlify/Vercel
-1. Build the project: `npm run build`
-2. Upload the `build` folder to your hosting service
-3. Configure redirects for single-page application routing
 
 
